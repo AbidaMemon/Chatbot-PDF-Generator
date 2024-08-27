@@ -8,7 +8,7 @@ Chatbot PDF Generator enables real-time interactions with a chatbot and provides
 
 Interactive Chatbot: Engage in real-time conversations.
 
-PDF Export: Save your chat history as a PDF document.
+PDF Export: Save your chat history as a PDF document. 
 
 # Technologies Used
 
