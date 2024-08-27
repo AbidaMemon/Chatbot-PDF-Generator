@@ -7,7 +7,7 @@ from groq import Groq
 app = Flask(__name__)
 
 
-client = Groq(api_key='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')
+client = Groq(api_key='your-api-key')
 latest_response = ""
 latest_question = ""
 
